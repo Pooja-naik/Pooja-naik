@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate software engineer with a knack for crafting efficient and scalable web applications. With a solid foundation in both frontend and backend development, I enjoy creating seamless user experiences and robust backend systems.
+I'm a passionate software professional with a knack for crafting efficient and scalable web applications. With a solid foundation in both frontend and backend development, I enjoy creating seamless user experiences and robust backend systems.
 - 🔭 I’m currently working on React, Next.js for Drupal
 - 🌱 I’m currently learning GraphQL, Apollo Client
 - 📫 Please reach out at poojasbharathi1999@gmail.com
