@@ -6,7 +6,9 @@ I'm a passionate software professional with a knack for crafting efficient and s
 
 # Education:
 B.E. - Electronics And Communication Engineering (2016-2020)
+
 The National Institute of Engineering,Mysore
+
 GPA - 9.15
 
 ## 🌐 Socials:
