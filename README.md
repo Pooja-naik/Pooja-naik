@@ -2,8 +2,12 @@
 I'm a passionate software professional with a knack for crafting efficient and scalable web applications. With a solid foundation in both frontend and backend development, I enjoy creating seamless user experiences and robust backend systems.
 - 🔭 I’m currently working on React, Next.js for Drupal
 - 🌱 I’m currently learning GraphQL, Apollo Client
-- 📫 Please reach out at poojasbharathi1999@gmail.com
+- 📫 Please reach out at pooja.sathyanarayana@indegene.com
 
+# Education:
+B.E. - Electronics And Communication Engineering (2016-2020)
+The National Institute of Engineering,Mysore
+GPA - 9.15
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-s-225a71152) 
