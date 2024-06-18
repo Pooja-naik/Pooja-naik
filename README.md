@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate software professional with a knack for crafting efficient and scalable web applications. Over the past four years, I have honed my skills in both frontend and backend development, specializing in technologies such as React, JavaScript, Node.js, MongoDB, and Express.js. My experience spans a range of projects, from developing innovative solutions for startups to delivering complex applications for established enterprises. My goal is always to build applications that are not only functional but also offer an intuitive and seamless user experience.
+I'm a passionate software professional with a knack for crafting efficient and scalable web applications. Over the past four years, I have honed my skills in both frontend and backend development, specializing in technologies such as React, JavaScript, Node.js, MongoDB, and Express.js. My experience spans a range of projects, from developing innovative solutions to delivering complex applications. My goal is always to build applications that are not only functional but also offer an intuitive and seamless user experience.
 
 I am continuously learning and exploring new tools and technologies to enhance my skill set and stay ahead in the fast-evolving tech landscape.
 
