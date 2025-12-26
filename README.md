@@ -5,7 +5,7 @@ I am continuously learning and exploring new tools and technologies to enhance m
 
 - 🔭 I’m currently working on React, Next.js for Drupal
 - 🌱 I’m currently learning GraphQL, Apollo Client
-- 📫 Please reach out at pooja.sathyanarayana@indegene.com
+- 📫 Please reach out at poojasbharathi1999@gmail.com
 
 # Education:
 B.E. - Electronics And Communication Engineering (2016-2020)
